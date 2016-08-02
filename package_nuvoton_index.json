@@ -1,0 +1,66 @@
+{
+    "packages": [
+        {
+            "help": {
+                "online": "http://www.nuvoton.com"
+            },
+            "maintainer": "Nuvoton",
+            "name":"nuvoton",
+            "platforms": [
+                {
+                  "name": "NuEdu-UNO (32-bits NUC131 Cortex-M0)",
+                  "architecture": "nuvoton",
+                  "version": "1.6.9",
+                  "category": "Arduino",
+                  "url": "https://raw.githubusercontent.com/NuEdu/nuedu/master/nuvoton-1.6.9.tar.bz2",
+                  "archiveFileName": "nuvoton-1.6.9.tar.bz2",
+                  "checksum": "SHA-256:eb0e32da6c7349827f07cb3484c9ee43cd14bc143b4b9a02f598a761f0e53939",
+                  "size": "2171868",
+                  "boards": [
+                    {"name": "Nuvoton Uno"}
+                  ],
+                  "toolsDependencies": [
+                    {
+                      "packager": "arduino",
+                      "name": "arm-none-eabi-gcc",
+                      "version": "4.8.3-2014q1"
+                    }
+                  ]
+                }
+            ],
+            "tools": [],
+            "websiteURL": "http://www.nuvoton.com"
+        },
+        {
+            "help": {
+                "online": "http://www.nuvoton.com"
+            },
+            "maintainer": "Nuvoton",
+            "name":"nuvoton",
+            "platforms": [
+                {
+                  "name": "NuEdu-UNO (32-bits NUC131 Cortex-M0)",
+                  "architecture": "nuvoton",
+                  "version": "1.6.10",
+                  "category": "Arduino",
+                  "url": "https://raw.githubusercontent.com/NuEdu/nuedu/master/nuvoton-1.6.10.tar.bz2",
+                  "archiveFileName": "nuvoton-1.6.10.tar.bz2",
+                  "checksum": "SHA-256:eb0e32da6c7349827f07cb3484c9ee43cd14bc143b4b9a02f598a761f0e53939",
+                  "size": "2171868",
+                  "boards": [
+                    {"name": "Nuvoton Uno"}
+                  ],
+                  "toolsDependencies": [
+                    {
+                      "packager": "arduino",
+                      "name": "arm-none-eabi-gcc",
+                      "version": "4.8.3-2014q1"
+                    }
+                  ]
+                }
+            ],
+            "tools": [],
+            "websiteURL": "http://www.nuvoton.com"
+        }
+    ]
+}
