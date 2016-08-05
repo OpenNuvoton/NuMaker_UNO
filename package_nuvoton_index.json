@@ -14,8 +14,8 @@
                   "category": "Arduino",
                   "url": "https://raw.githubusercontent.com/OpenNuvoton/NuEdu-UNO/master/nuvoton-1.6.9.tar.bz2",
                   "archiveFileName": "nuvoton-1.6.9.tar.bz2",
-                  "checksum": "SHA-256:eb0e32da6c7349827f07cb3484c9ee43cd14bc143b4b9a02f598a761f0e53939",
-                  "size": "2171868",
+                  "checksum": "SHA-256:0be46670d07c18bbdbb5e5853ae219b72cbcebad3541d9124f207614ef0be386",
+                  "size": "2172777",
                   "boards": [
                     {"name": "Nuvoton Uno"}
                   ],
@@ -45,8 +45,8 @@
                   "category": "Arduino",
                   "url": "https://raw.githubusercontent.com/OpenNuvoton/NuEdu-UNO/master/nuvoton-1.6.10.tar.bz2",
                   "archiveFileName": "nuvoton-1.6.10.tar.bz2",
-                  "checksum": "SHA-256:eb0e32da6c7349827f07cb3484c9ee43cd14bc143b4b9a02f598a761f0e53939",
-                  "size": "2171868",
+                  "checksum": "SHA-256:0be46670d07c18bbdbb5e5853ae219b72cbcebad3541d9124f207614ef0be386",
+                  "size": "2172777",
                   "boards": [
                     {"name": "Nuvoton Uno"}
                   ],
