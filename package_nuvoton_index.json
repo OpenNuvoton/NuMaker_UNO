@@ -8,14 +8,14 @@
             "name":"nuvoton",
             "platforms": [
                 {
-                  "name": "NuEdu-UNO (32-bits NUC131 Cortex-M0)",
+                  "name": "NuMaker-UNO (32-bits NUC131 Cortex-M0)",
                   "architecture": "nuvoton",
                   "version": "1.6.9",
                   "category": "Arduino",
-                  "url": "https://raw.githubusercontent.com/OpenNuvoton/NuEdu-UNO/master/nuvoton-1.6.9.tar.bz2",
+                  "url": "https://raw.githubusercontent.com/OpenNuvoton/NuMaker-UNO/master/nuvoton-1.6.9.tar.bz2",
                   "archiveFileName": "nuvoton-1.6.9.tar.bz2",
-                  "checksum": "SHA-256:0be46670d07c18bbdbb5e5853ae219b72cbcebad3541d9124f207614ef0be386",
-                  "size": "2172777",
+                  "checksum": "SHA-256:22f0bce9a3b5f89b3bcb2cd1904bc55cf937bc8a018559433aaddb45fa8f4804",
+                  "size": "2172786",
                   "boards": [
                     {"name": "Nuvoton Uno"}
                   ],
@@ -39,14 +39,14 @@
             "name":"nuvoton",
             "platforms": [
                 {
-                  "name": "NuEdu-UNO (32-bits NUC131 Cortex-M0)",
+                  "name": "NuMaker-UNO (32-bits NUC131 Cortex-M0)",
                   "architecture": "nuvoton",
                   "version": "1.6.10",
                   "category": "Arduino",
-                  "url": "https://raw.githubusercontent.com/OpenNuvoton/NuEdu-UNO/master/nuvoton-1.6.10.tar.bz2",
+                  "url": "https://raw.githubusercontent.com/OpenNuvoton/NuMaker-UNO/master/nuvoton-1.6.10.tar.bz2",
                   "archiveFileName": "nuvoton-1.6.10.tar.bz2",
-                  "checksum": "SHA-256:0be46670d07c18bbdbb5e5853ae219b72cbcebad3541d9124f207614ef0be386",
-                  "size": "2172777",
+                  "checksum": "SHA-256:22f0bce9a3b5f89b3bcb2cd1904bc55cf937bc8a018559433aaddb45fa8f4804",
+                  "size": "2172786",
                   "boards": [
                     {"name": "Nuvoton Uno"}
                   ],
