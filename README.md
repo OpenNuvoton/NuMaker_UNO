@@ -1,14 +1,14 @@
-# NuEdu-UNO board package for Arduino IDE
-This repository contains the package descriptor for NuEdu-UNO board
+# NuMaker-UNO board package for Arduino IDE
+This repository contains the package descriptor for NuMaker-UNO board
 
 ## Installation Steps
 1. Download Arduino 1.6.10 IDE from https://www.arduino.cc/en/Main/Software
 2. Extract arduino-1.6.10-windows.zip
 3. Double-click arduino.exe, and then go to **File->Preferences**
 4. Paste following URL to 'Additional Boards Manager URLs' input field: 
-https://raw.githubusercontent.com/OpenNuvoton/NuEdu-UNO/master/package_nuvoton_index.json
-5. Under **Tools->Board->Boards Manger**, search NuEdu-UNO by Nuvoton, click **Install**
-6. You can now select NuEdu-UNO in Arduino IDE
+https://raw.githubusercontent.com/OpenNuvoton/NuMaker-UNO/master/package_nuvoton_index.json
+5. Under **Tools->Board->Boards Manger**, search NuMaker-UNO by Nuvoton, click **Install**
+6. You can now select NuMaker-UNO in Arduino IDE
 
 ## Disclaimer
 The Software is furnished "AS IS", without warranty as to performance or results, and
