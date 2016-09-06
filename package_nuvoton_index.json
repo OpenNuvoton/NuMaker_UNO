@@ -8,16 +8,16 @@
             "name":"nuvoton",
             "platforms": [
                 {
-                  "name": "NuMaker-UNO (32-bits NUC131 Cortex-M0)",
+                  "name": "NuMaker UNO (32-bits NUC131 Cortex-M0)",
                   "architecture": "nuvoton",
                   "version": "1.6.9",
                   "category": "Arduino",
-                  "url": "https://raw.githubusercontent.com/OpenNuvoton/NuMaker-UNO/master/nuvoton-1.6.9.tar.bz2",
+                  "url": "https://raw.githubusercontent.com/ChinigI/NuMaker-UNO/master/nuvoton-1.6.9.tar.bz2",
                   "archiveFileName": "nuvoton-1.6.9.tar.bz2",
-                  "checksum": "SHA-256:22f0bce9a3b5f89b3bcb2cd1904bc55cf937bc8a018559433aaddb45fa8f4804",
-                  "size": "2172786",
+                  "checksum": "SHA-256:5b75710812bc92172310c1d150ddb8dba81ecf8a28f051da6d76b792e79f063a",
+                  "size": "2172889",
                   "boards": [
-                    {"name": "Nuvoton Uno"}
+                    {"name": "Nuvoton NuMaker Uno"}
                   ],
                   "toolsDependencies": [
                     {
@@ -39,16 +39,16 @@
             "name":"nuvoton",
             "platforms": [
                 {
-                  "name": "NuMaker-UNO (32-bits NUC131 Cortex-M0)",
+                  "name": "NuMaker UNO (32-bits NUC131 Cortex-M0)",
                   "architecture": "nuvoton",
                   "version": "1.6.10",
                   "category": "Arduino",
-                  "url": "https://raw.githubusercontent.com/OpenNuvoton/NuMaker-UNO/master/nuvoton-1.6.10.tar.bz2",
+                  "url": "https://raw.githubusercontent.com/ChinigI/NuMaker-UNO/master/nuvoton-1.6.10.tar.bz2",
                   "archiveFileName": "nuvoton-1.6.10.tar.bz2",
-                  "checksum": "SHA-256:22f0bce9a3b5f89b3bcb2cd1904bc55cf937bc8a018559433aaddb45fa8f4804",
-                  "size": "2172786",
+                  "checksum": "SHA-256:5b75710812bc92172310c1d150ddb8dba81ecf8a28f051da6d76b792e79f063a",
+                  "size": "2172889",
                   "boards": [
-                    {"name": "Nuvoton Uno"}
+                    {"name": "Nuvoton NuMaker Uno"}
                   ],
                   "toolsDependencies": [
                     {
