@@ -14,8 +14,8 @@
                   "category": "Arduino",
                   "url": "https://raw.githubusercontent.com/ChinigI/NuMaker_UNO/master/nuvoton-1.6.9.tar.bz2",
                   "archiveFileName": "nuvoton-1.6.9.tar.bz2",
-                  "checksum": "SHA-256:5b75710812bc92172310c1d150ddb8dba81ecf8a28f051da6d76b792e79f063a",
-                  "size": "2172889",
+                  "checksum": "SHA-256:7241b2323f3fee11a80adcb936de1cfc1c3a4925c93dd6f4fdbbfa2be41efcad",
+                  "size": "2173566",
                   "boards": [
                     {"name": "Nuvoton NuMaker Uno"}
                   ],
@@ -45,8 +45,8 @@
                   "category": "Arduino",
                   "url": "https://raw.githubusercontent.com/ChinigI/NuMaker_UNO/master/nuvoton-1.6.10.tar.bz2",
                   "archiveFileName": "nuvoton-1.6.10.tar.bz2",
-                  "checksum": "SHA-256:5b75710812bc92172310c1d150ddb8dba81ecf8a28f051da6d76b792e79f063a",
-                  "size": "2172889",
+                  "checksum": "SHA-256:7241b2323f3fee11a80adcb936de1cfc1c3a4925c93dd6f4fdbbfa2be41efcad",
+                  "size": "2173566",
                   "boards": [
                     {"name": "Nuvoton NuMaker Uno"}
                   ],
