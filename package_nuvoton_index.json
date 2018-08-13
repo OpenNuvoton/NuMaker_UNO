@@ -10,12 +10,12 @@
                 {
                   "name": "NuMaker UNO (32-bits NUC131 Cortex-M0)",
                   "architecture": "nuvoton",
-                  "version": "1.6.9",
+                  "version": "1.8.5",
                   "category": "Arduino",
-                  "url": "https://raw.githubusercontent.com/OpenNuvoton/NuMaker_UNO/master/nuvoton-1.6.9.tar.bz2",
-                  "archiveFileName": "nuvoton-1.6.9.tar.bz2",
-                  "checksum": "SHA-256:7241b2323f3fee11a80adcb936de1cfc1c3a4925c93dd6f4fdbbfa2be41efcad",
-                  "size": "2173566",
+                  "url": "https://raw.githubusercontent.com/OpenNuvoton/NuMaker_UNO/master/nuvoton-1.8.5.tar.bz2",
+                  "archiveFileName": "nuvoton-1.8.5.tar.bz2",
+                  "checksum": "SHA-256:D60EDE1C7E448A2D6565C0FA30264D1061F879BDA0E65E4F37009A011EB2F0F5",
+                  "size": "2348285",
                   "boards": [
                     {"name": "Nuvoton NuMaker Uno"}
                   ],
