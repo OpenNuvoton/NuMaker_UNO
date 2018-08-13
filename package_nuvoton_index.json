@@ -31,36 +31,5 @@
             "tools": [],
             "websiteURL": "http://www.nuvoton.com"
         },
-        {
-            "help": {
-                "online": "http://www.nuvoton.com"
-            },
-            "maintainer": "Nuvoton",
-            "name":"nuvoton",
-            "platforms": [
-                {
-                  "name": "NuMaker UNO (32-bits NUC131 Cortex-M0)",
-                  "architecture": "nuvoton",
-                  "version": "1.6.10",
-                  "category": "Arduino",
-                  "url": "https://raw.githubusercontent.com/OpenNuvoton/NuMaker_UNO/master/nuvoton-1.6.10.tar.bz2",
-                  "archiveFileName": "nuvoton-1.6.10.tar.bz2",
-                  "checksum": "SHA-256:7241b2323f3fee11a80adcb936de1cfc1c3a4925c93dd6f4fdbbfa2be41efcad",
-                  "size": "2173566",
-                  "boards": [
-                    {"name": "Nuvoton NuMaker Uno"}
-                  ],
-                  "toolsDependencies": [
-                    {
-                      "packager": "arduino",
-                      "name": "arm-none-eabi-gcc",
-                      "version": "4.8.3-2014q1"
-                    }
-                  ]
-                }
-            ],
-            "tools": [],
-            "websiteURL": "http://www.nuvoton.com"
-        }
     ]
 }
