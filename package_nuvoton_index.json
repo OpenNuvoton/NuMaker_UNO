@@ -12,7 +12,7 @@
                   "architecture": "nuvoton",
                   "version": "1.8.5",
                   "category": "Arduino",
-                  "url": "https://raw.githubusercontent.com/hphuangNuvoton/Test/master/nuvoton-1.8.5.tar.bz2",
+                  "url": "https://raw.githubusercontent.com/OpenNuvoton/NuMaker_UNO/master/nuvoton-1.8.5.tar.bz2",
                   "archiveFileName": "nuvoton-1.8.5.tar.bz2",
                   "checksum": "SHA-256:D60EDE1C7E448A2D6565C0FA30264D1061F879BDA0E65E4F37009A011EB2F0F5",
                   "size": "2348285",
