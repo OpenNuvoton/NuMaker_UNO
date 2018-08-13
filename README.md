@@ -2,8 +2,8 @@
 This repository contains the package descriptor for NuMaker UNO board
 
 ## Board Package Installation Steps
-1. Download Arduino 1.6.10 IDE from https://www.arduino.cc/en/Main/Software
-2. Extract arduino-1.6.10-windows.zip
+1. Download Arduino 1.8.5 IDE from https://www.arduino.cc/en/Main/Software
+2. Extract arduino-1.8.5-windows.zip
 3. Double-click arduino.exe, and then go to **File->Preferences**
 4. Paste following URL to 'Additional Boards Manager URLs' input field: 
 https://raw.githubusercontent.com/OpenNuvoton/NuMaker_UNO/master/package_nuvoton_index.json
