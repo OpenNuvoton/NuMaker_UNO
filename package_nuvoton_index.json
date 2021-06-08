@@ -14,8 +14,8 @@
                   "category": "Arduino",
                   "url": "https://github.com/OpenNuvoton/NuMaker_UNO/blob/master/nuvoton-1.8.5.tar.bz2?raw=true",
                   "archiveFileName": "nuvoton-1.8.5.tar.bz2",
-                  "checksum": "SHA-256:0CCA397EE87B468CB913BCD1E947F33BE560074CD9FF26CEEB7EAF9C85016363",
-                  "size": "26331008 ",
+                  "checksum": "SHA-256:FDCBB233BA3410E9409DCBC94DB1F66D6C79041A55B3A0C78FF22706DC51C1A8",
+                  "size": "26340058   ",
                   "boards": [
                     {"name": "Nuvoton NuMaker Uno NUC131"},
                     {"name": "Nuvoton NuMaker Uno M032BT"}
