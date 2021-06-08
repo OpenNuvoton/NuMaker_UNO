@@ -8,16 +8,17 @@
             "name":"nuvoton",
             "platforms": [
                 {
-                  "name": "NuMaker UNO (32-bits NUC131 Cortex-M0)",
+                  "name": "NuMaker UNO",
                   "architecture": "nuvoton",
-                  "version": "1.8.5",
+                  "version": "1.8.10",
                   "category": "Arduino",
-                  "url": "https://raw.githubusercontent.com/OpenNuvoton/NuMaker_UNO/master/nuvoton-1.8.5.tar.bz2",
+                  "url": "https://github.com/OpenNuvoton/NuMaker_UNO/blob/master/nuvoton-1.8.5.tar.bz2?raw=true",
                   "archiveFileName": "nuvoton-1.8.5.tar.bz2",
-                  "checksum": "SHA-256:AA0E5D954F777C193BB11A15CDA54BB0ACC0B0C91CBA7643083321166AC5D23D",
-                  "size": "2356004",
+                  "checksum": "SHA-256:0CCA397EE87B468CB913BCD1E947F33BE560074CD9FF26CEEB7EAF9C85016363",
+                  "size": "26331008 ",
                   "boards": [
-                    {"name": "Nuvoton NuMaker Uno"}
+                    {"name": "Nuvoton NuMaker Uno NUC131"},
+                    {"name": "Nuvoton NuMaker Uno M032BT"}
                   ],
                   "toolsDependencies": [
                     {
