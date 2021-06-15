@@ -17,8 +17,8 @@
                   "checksum": "SHA-256:FF99144B0D91F6AEB0EEA96837F1D0E153D78320E5015AD7C0F058B295EBAC3C",
                   "size": "26334464  ",
                   "boards": [
-                    {"name": "Nuvoton NuMaker Uno NUC131"},
-                    {"name": "Nuvoton NuMaker Uno M032BT"}
+                    {"name": "NuMaker NUC131"},
+                    {"name": "NuMaker M032BT"}
                   ],
                   "toolsDependencies": [
                     {
