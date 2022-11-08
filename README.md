@@ -11,11 +11,11 @@ This repository contains the package descriptor for NuMaker UNO boards
 
 # Supported Boards & Features
 
-| NuMaker Boards | Rich peripherals | Bluetooth Low Energy<br>ArduinoBLE(***1.2.1***) |
-| -------------- | ---------------- | ----------------------------------------------- |
-| **NUC131**     | ✔️                | ❌                                               |
-| **M032BT**     | ✔️                | ✔️                                               |
-| **M252**       | ✔️                | ❌                                               |
+| NuMaker Boards | Rich peripherals | Bluetooth Low Energy<br>ArduinoBLE(***1.2.1***) | Debugger(Arduino IDE 2.0) |
+| -------------- | ---------------- | ----------------------------------------------- |---------------------------|
+| **NUC131**     | ✔️                | ❌                                               | ✔️                         |
+| **M032BT**     | ✔️                | ✔️                                               | ✔️                         |
+| **M252**       | ✔️                | ❌                                               | ✔️                         |
 
 
 # Board Package Installation Steps
