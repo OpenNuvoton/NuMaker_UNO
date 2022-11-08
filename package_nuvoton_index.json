@@ -12,7 +12,7 @@
                   "architecture": "nuvoton",
                   "version": "2.0.0",
                   "category": "Arduino",
-                  "url": "https://github.com/stanlytw/NuMaker_UNO/blob/master/Arduino_nuvoton.tar.bz2?raw=true",
+                  "url": "https://github.com/OpenNuvoton/NuMaker_UNO/blob/master/Arduino_nuvoton.tar.bz2?raw=true",
                   "archiveFileName": "Arduino_nuvoton.tar.bz2",
                   "checksum": "SHA-256:28c7e07901939b199772f29670b3125cc23bdf854fa62f76f8af5fcba4f151ce",
                   "size": "46649984",
