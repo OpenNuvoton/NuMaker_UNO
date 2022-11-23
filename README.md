@@ -2,7 +2,7 @@
 - [Supported Boards & Features](#supported-boards--features)
 - [Board Package Installation Steps](#board-package-installation-steps)
 - [VCOM Driver Installation Steps (Optional for M032BT)](#vcom-driver-installation-steps-optional-for-m032bt)
-- [NuLink Driver Installation Requirements (For M460)]
+- [NuLink Driver Installation Requirements (For M460)](#nulink-driver-installation-requirements-for-m460)
 - [Compatible Versions of Arduino IDE](#compatible-versions-of-arduino-ide)
 - [Disclaimer](#disclaimer)
 - [Important Notice](#important-notice)
