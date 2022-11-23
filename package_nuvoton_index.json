@@ -10,16 +10,19 @@
                 {
                   "name": "NuMaker UNO",
                   "architecture": "nuvoton",
-                  "version": "2.0.0",
+                  "version": "2.0.1",
                   "category": "Arduino",
                   "url": "https://github.com/OpenNuvoton/NuMaker_UNO/blob/master/Arduino_nuvoton.tar.bz2?raw=true",
                   "archiveFileName": "Arduino_nuvoton.tar.bz2",
-                  "checksum": "SHA-256:28c7e07901939b199772f29670b3125cc23bdf854fa62f76f8af5fcba4f151ce",
-                  "size": "46649984",
+                  "checksum": "SHA-256:a80a599a7d8e36076f777eacc47dc933bb651d911012cba88f151d773db0995a",
+                  "size": "46650702",
                   "boards": [
                     {"name": "NuMaker NUC131"},
                     {"name": "NuMaker M032BT"},
-                    {"name": "NuMaker M252"}		   
+                    {"name": "NuMaker M252"},
+                    {"name": "NuMaker M467"},
+                    {"name": "NuMaker M487"}
+                    						
                   ],
                   "toolsDependencies": [
                     {
