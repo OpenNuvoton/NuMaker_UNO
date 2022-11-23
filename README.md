@@ -2,6 +2,7 @@
 - [Supported Boards & Features](#supported-boards--features)
 - [Board Package Installation Steps](#board-package-installation-steps)
 - [VCOM Driver Installation Steps (Optional for M032BT)](#vcom-driver-installation-steps-optional-for-m032bt)
+- [NuLink Driver Installation Requirements (For M460)]
 - [Compatible Versions of Arduino IDE](#compatible-versions-of-arduino-ide)
 - [Disclaimer](#disclaimer)
 - [Important Notice](#important-notice)
@@ -13,11 +14,11 @@ This repository contains the package descriptor for NuMaker UNO boards
 
 | NuMaker Boards | Rich peripherals | Bluetooth Low Energy<br>ArduinoBLE(***1.2.1***) | Debugger(Arduino IDE 2.0) |
 | -------------- | ---------------- | ----------------------------------------------- |---------------------------|
-| **NUC131**     | ✔️                | ❌                                             | ✔️                         |
-| **M032BT**     | ✔️                | ✔️                                             | ✔️                         |
-| **M252**       | ✔️                | ❌                                             | ✔️                         |
-| **M467**       | ✔️                | ❌                                             | ✔️                         |
-| **M487**       | ✔️                | ❌                                             | ✔️                         |
+| **NUC131**     | ✔️                | ❌                                            | ✔️                        |
+| **M032BT**     | ✔️                | ✔️                                            | ✔️                        |
+| **M252**       | ✔️                | ❌                                            | ✔️                        |
+| **M467**       | ✔️                | ❌                                            | ✔️                        |
+| **M487**       | ✔️                | ❌                                            | ✔️                        |
 
 
 # Board Package Installation Steps
@@ -31,16 +32,15 @@ This repository contains the package descriptor for NuMaker UNO boards
 # VCOM Driver Installation Steps (Optional for M032BT)
 The Virtual COM (VCOM) interface requires a VCOM driver to be installed on PC first. 
 The driver "Nu-Link_USB_Driver 1.x.exe" can be found at: http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=SW0520150729202535
+1. Execute "Nu-Link_USB_Driver 1.x.exe" after the USB cable is un-plugged.
+2. Follow the steps of installation wizard to select setup language and installation location.
+3. Plug in USB cable after driver installation complete.
+4. Connect the NuMaker UNO with PC using a USB cable. If the driver is successfully installed, the Windows shall find a new device and then automatically find the correct driver. A virtual COM port named "Nuvoton Virtual Com Port" can be found in "Device Manager".
 
 # NuLink Driver Installation Requirements (For M460)
 To support M460 firmware upload, it requirs: 
 1. NuLink USB Driver Version: 1.9
 2. NuLink Command Tool: 3.09
-
-1. Execute "Nu-Link_USB_Driver 1.x.exe" after the USB cable is un-plugged.
-2. Follow the steps of installation wizard to select setup language and installation location.
-3. Plug in USB cable after driver installation complete.
-4. Connect the NuMaker UNO with PC using a USB cable. If the driver is successfully installed, the Windows shall find a new device and then automatically find the correct driver. A virtual COM port named "Nuvoton Virtual Com Port" can be found in "Device Manager".
 
 # Compatible Versions of Arduino IDE
 * 2.0.0
@@ -72,4 +72,4 @@ trademarks of products and companies mentioned in this datasheet belong to their
 owners.
 
 
-**Copyright (C) 2021 Nuvoton Technology Corp. All rights reserved**
+**Copyright (C) 2022 Nuvoton Technology Corp. All rights reserved**
