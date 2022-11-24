@@ -38,9 +38,9 @@ The driver "Nu-Link_USB_Driver 1.x.exe" can be found at: http://www.nuvoton.com/
 4. Connect the NuMaker UNO with PC using a USB cable. If the driver is successfully installed, the Windows shall find a new device and then automatically find the correct driver. A virtual COM port named "Nuvoton Virtual Com Port" can be found in "Device Manager".
 
 # NuLink Driver Installation Requirements (For M460)
-To support M460 firmware upload, it requirs: 
-1. NuLink USB Driver Version: 1.9
-2. NuLink Command Tool: 3.09
+To support M460 firmware upload, it requires: 
+1. NuLink USB Driver Version: 1.9 and above
+2. NuLink Command Tool: 3.09 and above
 
 # Compatible Versions of Arduino IDE
 * 2.0.0
