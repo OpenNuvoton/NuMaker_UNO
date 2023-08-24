@@ -14,10 +14,11 @@ This repository contains the package descriptor for NuMaker UNO boards
 | NuMaker Boards | Rich peripherals |Embedded CAN<br>nvtCAN(*Note) |Bluetooth Low Energy<br>ArduinoBLE(***1.2.1***) |
 | -------------- | ---------------- | ----------------------------------------------- |----------------------------------------------- |
 | **NUC131**     | ✔️              | ✔️                                               | ❌                                          |
-| **M032BT**     | ✔️              | ❌                                               | ✔️                                           |
+| **M032BT**     | ✔️              | ❌                                               | ✔️
+| **M03xKG**     | ✔️              | ❌                                               | ❌                                            |
 | **M252**       | ✔️              | ❌                                               | ❌                                           |
 | **M480**       | ✔️              | ❌                                               | ❌                                           |
-| **M460**       |  ✔️             | ❌                                               | ❌                                           |
+| **M460**       | ✔️              | ❌                                               | ❌                                           |
 
 Note: Compatible to [Seeed_Arduino_CAN](https://github.com/Seeed-Studio/Seeed_Arduino_CAN)
 
