@@ -32,7 +32,7 @@ Note: Compatible to [Seeed_Arduino_CAN](https://github.com/Seeed-Studio/Seeed_Ar
 
 # VCOM Driver Installation Steps (Optional for M032BT)
 The Virtual COM (VCOM) interface requires a VCOM driver to be installed on PC first. 
-The driver "Nu-Link_USB_Driver 1.x.exe" can be found at: https://www.nuvoton.com/products/microcontrollers/arm-cortex-m4-mcus/m467-ethernet-crypto-series/?group=Software&tab=2
+The driver can be found at: [Nu-Link_USB_Driver](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1120201207161057&currentFolder=/products/microcontrollers/arm-cortex-m4-mcus/m467-ethernet-crypto-series/)
 
 1. Execute "Nu-Link_USB_Driver 1.x.exe" after the USB cable is un-plugged.
 2. Follow the steps of installation wizard to select setup language and installation location.
