@@ -13,7 +13,8 @@ This repository contains the package descriptor for NuMaker UNO boards
 
 | NuMaker Boards | Rich peripherals |Embedded CAN<br>nvtCAN(*Note) |Bluetooth Low Energy<br>ArduinoBLE(***1.2.1***) |
 | -------------- | ---------------- | ----------------------------------------------- |----------------------------------------------- |
-| **[NuMaker-Uno](https://direct.nuvoton.com/en/numaker-uno)**     | ✔️              | ✔️                                               | ❌                                          |
+| **[NuMaker-Uno](https://direct.nuvoton.com/en/numaker-uno)**     | ✔️              | ❌                                               | ❌                                          |
+| **[NuMaker-NUC131U](https://direct.nuvoton.com/en/numaker-nuc131u)**     | ✔️              | ✔️                                               | ❌                                          |
 | **[NuMaker-M032BTAI](https://direct.nuvoton.com/en/numaker-m032btai)**     | ✔️              | ❌                                               | ✔️                                           |
 | **[NuMaker-M032KG](https://direct.nuvoton.com/en/numaker-m032kg)**     | ✔️              | ❌                                               | ️❌                                         |
 | **[NuMaker-M252SD](https://direct.nuvoton.com/en/numaker-m252sd)**       | ✔️              | ❌                                               | ❌                                           |
