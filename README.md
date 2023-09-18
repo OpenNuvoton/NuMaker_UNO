@@ -42,6 +42,7 @@ The driver can be found at: [Nu-Link_USB_Driver](https://www.nuvoton.com/resourc
 
 # Compatible Versions of Arduino IDE
 * 2.0.0 up
+* Debug funtion is not supported
 
 # Disclaimer
 The Software is furnished "AS IS", without warranty as to performance or results, and
