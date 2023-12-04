@@ -33,15 +33,16 @@ Note: Compatible to [Seeed_Arduino_CAN](https://github.com/Seeed-Studio/Seeed_Ar
 
 # VCOM Driver Installation Steps (Optional for M032BT)
 The Virtual COM (VCOM) interface requires a VCOM driver to be installed on PC first. 
-The driver can be found at: [Nu-Link_USB_Driver](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1120201207161057&currentFolder=/products/microcontrollers/arm-cortex-m4-mcus/m467-ethernet-crypto-series/)
+The driver can be found at: [Nu-Link_USB_Driver](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1120201207161057&currentFolder=/products/microcontrollers/arm-cortex-m4-mcus/m467-ethernet-crypto-series/).
 
 1. Execute "Nu-Link_USB_Driver 1.x.exe" after the USB cable is un-plugged.
 2. Follow the steps of installation wizard to select setup language and installation location.
 3. Plug in USB cable after driver installation complete.
 4. Connect the NuMaker UNO with PC using a USB cable. If the driver is successfully installed, the Windows shall find a new device and then automatically find the correct driver. A virtual COM port named "Nuvoton Virtual Com Port" can be found in "Device Manager".
 
-# Compatible Versions of Arduino IDE
-To run EEPROM example, user should connect external EEPROM via i2c(Wire) interface. We have verified these example with [AT24LC64](https://www.microchip.com/en-us/product/24lc64)
+# EEPROM Library Notes and Resource
+To use the EEPROM library and examples, it requires an external EEPROM connected via i2c(Wire) interface. This library has been verified with [AT24LC64](https://www.microchip.com/en-us/product/24lc64)
+
 # Compatible Versions of Arduino IDE
 * 2.0.0 up
 * Debug funtion is not supported
