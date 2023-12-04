@@ -41,7 +41,7 @@ The driver can be found at: [Nu-Link_USB_Driver](https://www.nuvoton.com/resourc
 4. Connect the NuMaker UNO with PC using a USB cable. If the driver is successfully installed, the Windows shall find a new device and then automatically find the correct driver. A virtual COM port named "Nuvoton Virtual Com Port" can be found in "Device Manager".
 
 # Compatible Versions of Arduino IDE
-To run EEPROM example, user should connect external EEPROM via i2c(Wire) interface.
+To run EEPROM example, user should connect external EEPROM via i2c(Wire) interface. We have verified these example with [AT24LC64](https://www.microchip.com/en-us/product/24lc64)
 # Compatible Versions of Arduino IDE
 * 2.0.0 up
 * Debug funtion is not supported
