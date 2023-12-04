@@ -2,6 +2,7 @@
 - [Supported Boards & Features](#supported-boards--features)
 - [Board Package Installation Steps](#board-package-installation-steps)
 - [VCOM Driver Installation Steps (Optional for M032BT)](#vcom-driver-installation-steps-optional-for-m032bt)
+- [EEPROM Library Notes and Resource](#eeprom-library-notes-and-resource)
 - [Compatible Versions of Arduino IDE](#compatible-versions-of-arduino-ide)
 - [Disclaimer](#disclaimer)
 - [Important Notice](#important-notice)
