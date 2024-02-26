@@ -18,7 +18,7 @@ This repository contains the package descriptor for NuMaker UNO boards
 | **[NuMaker-NUC131U](https://direct.nuvoton.com/en/numaker-nuc131u)**     | ✔️              | ✔️                                               | ❌                                          |
 | **[NuMaker-M032BTAI](https://direct.nuvoton.com/en/numaker-m032btai)**     | ✔️              | ❌                                               | ✔️                                           |
 | **[NuMaker-M032KG](https://direct.nuvoton.com/en/numaker-m032kg)**     | ✔️              | ❌                                               | ️❌                                         |
-| **[NuMaker-M252SD](https://direct.nuvoton.com/en/numaker-m252sd)**       | ✔️              | ❌                                               | ❌                                           |
+| **[NuMaker-M252KG](https://direct.nuvoton.com/en/numaker-m252kg)**       | ✔️              | ❌                                               | ❌                                           |
 | **[NuMaker-PFM-M487](https://direct.nuvoton.com/en/numaker-pfm-m487)**       | ✔️              | ❌                                               | ❌                                           |
 | **[NuMaker-M467HJ](https://direct.nuvoton.com/en/numaker-m467hj)**       | ✔️              | ❌                                               | ❌                                           |
 
@@ -45,8 +45,8 @@ The driver can be found at: [Nu-Link_USB_Driver](https://www.nuvoton.com/resourc
 To use the EEPROM library and examples, it requires an external EEPROM connected via i2c(Wire) interface. This library has been verified with [AT24LC64](https://www.microchip.com/en-us/product/24lc64)
 
 # Compatible Versions of Arduino IDE
-* 2.0.0 up
-* Debug funtion is not supported
+* 2.3.2 up
+* Debug funtion is supported.
 
 # Disclaimer
 The Software is furnished "AS IS", without warranty as to performance or results, and
@@ -75,4 +75,4 @@ trademarks of products and companies mentioned in this datasheet belong to their
 owners.
 
 
-**Copyright (C) 2023 Nuvoton Technology Corp. All rights reserved**
+**Copyright (C) 2024 Nuvoton Technology Corp. All rights reserved**
