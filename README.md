@@ -46,7 +46,7 @@ To use the EEPROM library and examples, it requires an external EEPROM connected
 
 # Compatible Versions of Arduino IDE
 * 2.3.2 up
-* Debug funtion is supported.
+* Debug function is supported for boards with Nu-Link2. Nu-Link1 is not supported so far.
 
 # Disclaimer
 The Software is furnished "AS IS", without warranty as to performance or results, and
