@@ -29,7 +29,7 @@ This package contains the NuMaker M4 board descriptors.
 | NuMaker Boards | Rich GPIO | Embedded SD |Embedded CAN/FD<br>nvtCAN(*Note1)  | RS485 | Ethernet | Firmware Upload<br>by ISP(*Note2) |
 | -------------- | ---------------- | ------|----------------------------------------------- |------|----|----|
 | **[NuMaker-IOT-M467](https://direct.nuvoton.com/en/numaker-iot-m467)**       | ✔️  | ✔️| ✔️| ✔️| ✔️ | ✔️                                            ||
-| NuMaker-UNO-M4<br>(*Note3)       |✔️              | ✔️                              | ❌  | ✔️| ✔️| ✔️| ✔️                               ||
+| **[NuMaker-UNO-M4](https://www.nuvoton.com/products/iot-solution/arduino-compatible-platform/numaker-uno-m4/)**       |✔️ | ✔️| ❌  | ✔️| ✔️| ✔️| ✔️ ||
 
 
 Note1: Compatible to [Seeed_Arduino_CAN](https://github.com/Seeed-Studio/Seeed_Arduino_CAN)
