@@ -10,20 +10,44 @@
                 {
                   "name": "NuMaker UNO",
                   "architecture": "nuvoton",
-                  "version": "2.5.1",
+                  "version": "3.1.8",
+
                   "category": "Arduino",
                   "url": "https://github.com/OpenNuvoton/NuMaker_UNO/blob/master/Arduino_nuvoton.tar.bz2?raw=true",
                   "archiveFileName": "Arduino_nuvoton.tar.bz2",
-                  "checksum": "SHA-256:404f7d2421334a88381c6afebba9b7a776f5a45a902ebac6d7bec8ffba7e1d40",
-                  "size": "46178157",
+                  "checksum": "SHA-256:29740e360ecad17d04a07be8555a85496ae3b73e43c8baca8fa30c9fb28421c2",
+                  "size": "46182122",
                   "boards": [
                     {"name": "NuMaker-NUC131"},
                     {"name": "NuMaker-M032BTAI"},
                     {"name": "NuMaker-M032KG"},
                     {"name": "NuMaker-M252"},
-                    {"name": "NuMaker-M467HJ"},
-                    {"name": "NuMaker-PFM-M487"},
-					{"name": "Customized-M467M"}
+					{"name": "NuMaker-PFM-M487"}
+                    						
+                  ],
+                  "toolsDependencies": [
+                    {
+                      "packager": "arduino",
+                      "name": "arm-none-eabi-gcc",
+                      "version": "7-2017q4"
+                    }
+                  ]
+                },
+				{
+                  "name": "NuMaker M4",
+                  "architecture": "nuvoton_m4",
+                  "version": "13.3.5",
+
+                  "category": "Arduino",
+                  "url": "https://github.com/OpenNuvoton/NuMaker_UNO/blob/master/Arduino_nuvoton_m4.tar.bz2?raw=true",
+                  "archiveFileName": "Arduino_nuvoton_m4.tar.bz2",
+                  "checksum": "SHA-256:722bb1ed6abdf304ea1c8bdcff4b4de217a1aa5ce9d1b61d507f2c57d4abe3d3",
+                  "size": "33442482",
+                  "boards": [
+                    {"name": "NuMaker-UNO-M4"},
+                    {"name": "NuMaker-IoT-M467"},
+					{"name": "NuMaker-M467HJ"}
+
                     						
                   ],
                   "toolsDependencies": [
