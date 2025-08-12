@@ -34,7 +34,7 @@ This package contains the NuMaker M4 board descriptors.
 
 Note1: Compatible to [Seeed_Arduino_CAN](https://github.com/Seeed-Studio/Seeed_Arduino_CAN)
 
-Note2: Require dedicated loader and application code.
+Note2: ISP programming flow [demo video](https://youtube.com/shorts/vcT7D0wLV94). Operation mode(APP/LDR) is indicated by LED lightings.
 
 Note3: It would be commercial available soon.
 
@@ -88,3 +88,4 @@ owners.
 
 
 **Copyright (C) 2025 Nuvoton Technology Corp. All rights reserved**
+
