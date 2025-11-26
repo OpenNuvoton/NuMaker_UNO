@@ -26,17 +26,17 @@ This package contains the NuMaker M4 board descriptors.
 
 ## Supported Boards & Features
 
-| NuMaker Boards | Rich GPIO | Embedded SD |Embedded CAN/FD<br>nvtCAN(*Note1)  | RS485 | Ethernet | Firmware Upload<br>by ISP(*Note2) |
-| -------------- | ---------------- | ------|----------------------------------------------- |------|----|----|
-| **[NuMaker-IOT-M467](https://direct.nuvoton.com/en/numaker-iot-m467)**       | ✔️  | ✔️| ✔️| ✔️| ✔️ | ✔️                                            ||
-| **[NuMaker-UNO-M4](https://www.nuvoton.com/products/iot-solution/arduino-compatible-platform/numaker-uno-m4/)**       |✔️ | ✔️| ❌  | ✔️| ✔️| ✔️| ✔️ ||
+| NuMaker Boards | Rich GPIO | Embedded SD |Embedded CAN/FD<br>nvtCAN(*Note1)  | RS485 | Ethernet | Firmware Upload<br>by ISP(*Note2) | Keyboard/Mouse |
+| ------------------ | ---------------- | ------|----------------------------------------------- |------|----|----|----|
+| **[NuMaker-IOT-M467](https://direct.nuvoton.com/en/numaker-iot-m467)**       | ✔️  | ✔️| ✔️| ✔️| ✔️ | ✔️ |  ❌                                            ||
+| **[NuMaker-UNO-M4](https://www.nuvoton.com/products/iot-solution/arduino-compatible-platform/numaker-uno-m4/)**       |✔️ | ✔️| ❌  | ✔️| ✔️| ✔️| ❌  ||
+| **[NuMaker-UNO-M4KB](https://www.nuvoton.com/products/iot-solution/arduino-compatible-platform/numaker-uno-m4/)**       |✔️ | ✔️| ❌  | ✔️| ✔️| ✔️| ✔️  ||
 
 
 Note1: Compatible to [Seeed_Arduino_CAN](https://github.com/Seeed-Studio/Seeed_Arduino_CAN)
 
 Note2: ISP programming flow [demo video](https://youtube.com/shorts/vcT7D0wLV94). Operation mode(APP/LDR) is indicated by LED lightings.
 
-Note3: It would be commercial available soon.
 
 # Board Package Installation Steps
 1. Download and Install Arduino IDE from https://www.arduino.cc/en/Main/Software.
@@ -88,4 +88,5 @@ owners.
 
 
 **Copyright (C) 2025 Nuvoton Technology Corp. All rights reserved**
+
 
